@@ -1,4 +1,4 @@
-# Stock-Dat
+# Stock-Data
 
 Pull Stock data From Yahoo finance 
 
