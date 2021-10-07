@@ -1,6 +1,6 @@
 # Stock-Data
 
-Pull Stock data From Yahoo finance 
+Scrape Stock data From Yahoo finance 
 
 Create Ticker, price change.
 
